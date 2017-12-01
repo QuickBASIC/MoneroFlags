@@ -1,0 +1,11 @@
+{
+    "NAME":"Monero Cryptocurrency Flags Pack",
+    "DOWNLOAD":"https://github.com/QuickBASIC/MoneroFlags/releases",
+    "VERSION":
+    {
+        "MAJOR":0,
+        "MINOR":1,
+        "PATCH":0,
+        "BUILD":0
+    },
+}

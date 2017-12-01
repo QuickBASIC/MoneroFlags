@@ -1,0 +1,4 @@
+#ignore release zip
+*.zip
+#ignore release folder
+/MoneroFlags/
