@@ -1,5 +1,7 @@
 # MoneroFlags
-A pack of Monero flags for use in Kerbal Space Program. Available on the [CKAN](https://github.com/KSP-CKAN/CKAN) as `MoneroFlags`.
+A pack of Monero cyrptocurrency flags for use in Kerbal Space Program. 
+
+Available on the [CKAN](https://github.com/KSP-CKAN/CKAN) as `MoneroFlags`.
 
 To learn more about the Monero cryptocurrency. Visit [getmonero.org](https://www.getmonero.org) or join us on [/r/Monero](https://www.reddit.com/r/Monero/).
 
