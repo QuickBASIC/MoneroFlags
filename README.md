@@ -41,3 +41,5 @@ Your flag must be...
 Flags for other cryptocurrencies or cryptocurrency cultures (memes) will be accepted if well designed.
 
 [![Creative Commons Attribution Share-Alike 4.0 Licence](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
+
+*NOTE: This mod is no longer being maintained by me as I no longer actively play KSP. It has been kindly "adopted" by zer0Kerbal (https://github.com/zer0Kerbal) who will continue to make sure it's available and updated.  Please reach out to him with any bugs or questions. If you have an existing install, please delete it and re-add it using CKAN to ensure you continue to get updates.*
